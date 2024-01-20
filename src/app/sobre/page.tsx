@@ -1,9 +1,9 @@
-export default function Home() {
+export default function Sobre() {
   return (
     <>
-      <h1 className="text-xl font-bold mb-7">Home</h1>
+      <h1 className="text-xl font-bold mb-7">Sobre</h1>
 
-      <div className="img bg-[url('/limiar-do-tempo.webp')] float-left mr-2 mb-2"></div>
+      <div className="img bg-[url('/jornada-floresta.png')] float-left mr-2 mb-2"></div>
 
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
